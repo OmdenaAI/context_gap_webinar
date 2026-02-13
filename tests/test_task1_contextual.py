@@ -41,4 +41,3 @@ def test_transfer_exceeds_cumulative_limit():
             user_id=1,
             amount=2000,
         )
-
